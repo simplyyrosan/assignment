@@ -14,13 +14,13 @@ public class Q9 {
 		int d;
 		
 		while (temp>0) {
-			d = num%10;
+			d = temp%10;
 			sum += d;
-			temp = (int) temp/10;
+			temp = temp/10;
 		}
 		
-		if (sum%9==0) {
-			System.out.println( num + " is Niven");
+		if (num%sum==0) {
+			System.out.println(num + " is Niven");
 		} else {
 			System.out.println(num + " is not Niven");
 		}
