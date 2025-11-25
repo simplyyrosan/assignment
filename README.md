@@ -1,6 +1,16 @@
-## Getting Started
+## ICP LAB ASSIGNMENT
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Hello guys, Rosan or Omm prakash here, This repo contains all ans of the available lab assignment of ITER SOA university
+
+## How to get ans?
+
+src > choose your the lab number(ie. lab1) > choose the question file(ie. Q2.java)
+
+_Note:_
+
+> The `ITER` folder contains answer of lab2 part 2 (Using Command-Line Arguments).
+
+> The `Rough.java` file is experiment file, it has random broken pile of codes.
 
 ## Folder Structure
 
@@ -16,3 +26,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Thanks for visiting :) Feel free to share this.
