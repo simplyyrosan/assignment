@@ -6,7 +6,7 @@ public class Q1 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a number: ");
+		System.out.print("Enter a number: ");
 		
 		int num = sc.nextInt();
 		int temp = num;
@@ -14,9 +14,9 @@ public class Q1 {
 		int d;
 		
 		while (temp>0) {
-			d = num%10;
+			d = temp%10;
 			sum += d;
-			temp = (int) temp/10;
+			temp = temp/10;
 		}
 		
 		if (sum%9==0) {

@@ -1,5 +1,10 @@
 package lab4;
 
+/*
+GCD using brute force method
+(Not recomended)
+ */
+
 import java.util.Scanner;
 
 public class Q8b {

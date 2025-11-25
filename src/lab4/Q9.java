@@ -6,7 +6,7 @@ public class Q9 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a number: ");
+		System.out.print("Enter a number: ");
 		
 		int num = sc.nextInt();
 		int temp = num;
@@ -18,7 +18,7 @@ public class Q9 {
 			sum += d;
 			temp = temp/10;
 		}
-		
+
 		if (num%sum==0) {
 			System.out.println(num + " is Niven");
 		} else {

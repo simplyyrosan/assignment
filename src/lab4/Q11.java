@@ -18,7 +18,7 @@ public class Q11 {
             }
         }
 
-        String res = num==sum ? " is" : " is not";
+        String res = num==sum ? " is" : " is not";  //Using this to terminate the if else block, makes codes small and tidy
         System.out.println(num + res + " a perfect number.");
 
         sc.close();
