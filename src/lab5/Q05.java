@@ -1,7 +1,7 @@
 package lab5;
 import java.util.Scanner;
 
-public class Q5 {
+public class Q05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n: ");

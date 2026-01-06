@@ -16,7 +16,7 @@ public class Q12c {
 
         int res = (a>=b ? ( a>=c ? a : c) : ( b>=c ? b : c));
 
-        System.err.println("Largest number: "+res);
+        System.out.println("Largest number: "+res);
 
         sc.close();
     }
