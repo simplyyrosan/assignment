@@ -25,6 +25,9 @@ public class Q8 {
 
 }
 
-// 12 and 64  64%12 = 4 = x%y 
+// 64 and 12  64%12 = 4 = x%y 
 // x%y and y gcd = x and y gcd 
 // 12 % 4 = 0 
+
+// 22 and 4, 22%4 = 2 
+// 4 and 2 = 2

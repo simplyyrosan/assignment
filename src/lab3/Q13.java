@@ -29,3 +29,11 @@ public class Q13 {
         sc.close();
     }
 }
+
+// x>0 ? (y>0 ? 1 : 4) : (y>0 ? 2 : 3)
+/*
+if (x>0) {
+    if (y>0) 1
+    else 4
+}
+*/
