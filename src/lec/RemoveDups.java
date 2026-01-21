@@ -1,6 +1,6 @@
 package lec;
 
-public class Lec7 {
+public class RemoveDups {
 
     public static int[] removeDuplicates(int[] arr) {
         int[] result = new int[arr.length];

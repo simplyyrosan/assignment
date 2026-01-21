@@ -2,7 +2,7 @@ package lec;
 
 import java.util.Scanner;
 
-public class Lec6 {
+public class InputArr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

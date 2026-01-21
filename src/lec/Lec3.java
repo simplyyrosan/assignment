@@ -1,5 +1,4 @@
 package lec;
-import lec.Lec2;
 
 public class Lec3 {
     

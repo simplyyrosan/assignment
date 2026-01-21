@@ -2,7 +2,7 @@ package lec;
 
 import java.util.Scanner;
 
-public class Lec5 {
+public class CountNum {
 
     public static void main(String[] args) {
         // counts[0] for number 1, counts[99] for number 100

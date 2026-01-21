@@ -2,7 +2,7 @@ package lec;
 
 import java.util.Scanner;
 
-public class Lec2 {
+public class Palindrome {
     public static boolean palidrome(int num) {
         int temp = num;
         int rev = 0;

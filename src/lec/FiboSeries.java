@@ -1,6 +1,6 @@
 package lec;
 
-public class Lec1 {
+public class FiboSeries {
 
     public static void fibo(int n) {
         int a = 0, b = 1, c;
