@@ -30,5 +30,6 @@ public class RemoveDups {
         int[] arr = {1,2,2,3,4,4,5,1};
         int[] unique = removeDuplicates(arr);
         for (int x : unique) System.out.print(x + " ");
+
     }
 }
