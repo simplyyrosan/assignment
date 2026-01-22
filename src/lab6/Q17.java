@@ -13,6 +13,6 @@ public class Q17 {
         System.out.print("Input a string: ");
         String str = sc.nextLine();
         System.out.println("The middle character in the string: "+middleChar(str));
-
+        sc.close();
     }
 }

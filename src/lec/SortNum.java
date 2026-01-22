@@ -36,10 +36,13 @@ public class SortNum {
     }
 
     public static void main(String[] args) {
-        int n = 4321;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a num: ");
+        int n = sc.nextInt();
         int[] arr = unpackInt(n);
         arr = sortArr(arr);
         //System.out.println(Arrays.toString(arr));
         System.out.println(packInt(arr));
+        sc.close();
     }
 }

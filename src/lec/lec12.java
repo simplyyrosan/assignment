@@ -1,5 +1,15 @@
 package lec;
 
+
+    /*
+    
+    
+    ----------------------------------------------
+    |    DONT READ!!! NOT NEEDED FOR NOW!!!!      |
+    ----------------------------------------------
+    
+    */
+
 import java.util.Scanner;
 
 public class lec12 {
