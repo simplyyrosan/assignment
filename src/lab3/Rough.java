@@ -2,7 +2,7 @@ package lab3;
 import java.util.*;
 public class Rough {
     public static void main(String[] args) {
-//         Scanner sc = new Scanner(System.in);
+         Scanner sc = new Scanner(System.in);
 //         System.out.println("Enter the number of units: ");
 //         int units = sc.nextInt();
 //         double bill = 0;
@@ -38,6 +38,7 @@ public class Rough {
         for (int i=0; i<arr.length; i++) {
             System.out.println(arr[i]);
         }
+        sc.close();
     }
 }
 
