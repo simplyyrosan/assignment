@@ -16,6 +16,7 @@ public class Q15 {
             b = temp;
             System.out.print(c + " ");
         }
+        sc.close();
     }
 }
 

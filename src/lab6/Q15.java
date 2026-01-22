@@ -15,8 +15,10 @@ public class Q15 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
-        if (isPalindrome(str)) System.out.println(str + "is Palindrome");
-        else System.out.println(str + "is not Palindrome");
+        
+        // if (isPalindrome(str)) System.out.println(str + "is Palindrome");
+        // else System.out.println(str + "is not Palindrome");
+
         System.out.println(str + " is" + (isPalindrome(str)?" ":" not ") + "a Palindrome");
         sc.close();
     }
